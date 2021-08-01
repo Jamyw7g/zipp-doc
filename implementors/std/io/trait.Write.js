@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["zipp"] = [{"text":"impl&lt;'a, T&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/io/trait.Write.html\" title=\"trait std::io::Write\">Write</a> for <a class=\"struct\" href=\"zipp/source/struct.WriteHalf.html\" title=\"struct zipp::source::WriteHalf\">WriteHalf</a>&lt;'a, T&gt;","synthetic":false,"types":["zipp::source::WriteHalf"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

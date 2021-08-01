@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ReadHalf","A reference of Source which can be read"],["Source","Reference type, increase reference count when clone, descrease when drop"],["WriteHalf","A reference of Source which can be write"]]});

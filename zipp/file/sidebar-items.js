@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["File","File contain the file item in archive."]]});

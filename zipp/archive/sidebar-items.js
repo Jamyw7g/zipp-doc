@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Archive","Zip Archive"],["IterFile","File item iterater struct"],["IterStat","Stat item iterater struct"],["OpenOptions","Open archive with flags"]]});
